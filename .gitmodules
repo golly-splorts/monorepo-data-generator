@@ -1,0 +1,12 @@
+[submodule "gollyx-python"]
+	path = gollyx-python
+	url = git@ch4zm.github.com:golly-splorts/gollyx-python.git
+	branch = prototype-700
+[submodule "gollyx-maps"]
+	path = gollyx-maps
+	url = git@ch4zm.github.com:golly-splorts/gollyx-maps.git
+	branch = prototype-700
+[submodule "gollyx-backend-generator"]
+	path = gollyx-backend-generator
+	url = git@ch4zm.github.com:golly-splorts/gollyx-backend-generator.git
+	branch = prototype-700
