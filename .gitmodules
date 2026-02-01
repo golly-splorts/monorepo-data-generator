@@ -10,3 +10,7 @@
 	path = gollyx-backend-generator
 	url = git@ch4zm.github.com:golly-splorts/gollyx-backend-generator.git
 	branch = prototype-700
+[submodule "gollyx-automator-data"]
+	path = gollyx-automator-data
+	url = git@ch4zm.github.com:golly-splorts/gollyx-automator-data.git
+	branch = integrate-backend-generator
