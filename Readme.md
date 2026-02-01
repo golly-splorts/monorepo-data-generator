@@ -1,4 +1,4 @@
-# ai-monorepo-data-generator
+# monorepo-data-generator
 
 This repository is a monorepo. It combines multiple repos for 
 generating data for a competitive cellular automata sport.
